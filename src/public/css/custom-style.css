@@ -1,0 +1,45 @@
+#tags-list{
+
+}
+.form-group .message{
+  display: none;
+  color: #e47264;
+  font-weight: bold;
+}
+#tags-list input{
+  display: none;
+}
+input.accepted{
+  border-color: #359c34;
+}
+input.error{
+  border-color: #e47264;
+}
+.pagination-nav{
+  text-align: center;
+}
+.product-table-nav{
+  margin: 0 !important;
+}
+.create-new-product-nav{
+  margin: 22px 0px;
+}
+#chart{
+  width: 100%;
+  margin: 0;
+  padding: 0px 20px;
+}
+.message-from-server{
+  color: #e47264;
+  font-weight: bold;
+  display: block;
+}
+.error{
+  color: #e47264;
+}
+.hidden-by-ajax{
+  display: none;
+}
+#chart{
+  height: 500px;
+}
